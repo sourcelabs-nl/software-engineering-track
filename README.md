@@ -55,3 +55,11 @@ Voorbeeld trello board voor een schilder project:
 * Tools:
   * Local: git client (git-scm.org), IntelliJ
   * Shared: github.com, bitbucket.org, gitlab, Stash
+  
+## Build tools
+
+* Maven: https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html
+
+## Unit testing
+
+* JUnit: 4.x
