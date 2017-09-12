@@ -36,6 +36,12 @@ Voorbeeld trello board voor een schilder project:
 
 * https://trello.com/b/PTWUO4A4/schilderen-huis
 
+## Collaboration tools
+
+- Planning/tasks: Trello, Jira, etc.
+- Communication: Slack, HipChat, Skype
+- Code sharing: Git (distributed), Subversion (centralized)
+
 ## Git
 
 * Tutorial: https://try.github.io/levels/1/challenges/1
