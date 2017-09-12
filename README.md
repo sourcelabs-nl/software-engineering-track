@@ -5,7 +5,7 @@
 * Online tutorial: http://www.learnjavaonline.org/en/Welcome
 * Java language specification: http://docs.oracle.com/javase/specs/jls/se8/html/index.html
 * Java Community Process: https://jcp.org/en/home/index
-* Coding standards: https://www.oracle.com/technetwork/java/codeconventions-150003.pdf
+* Coding standards: http://www.oracle.com/technetwork/java/codeconventions-150003.pdf
 
 ## Agile & Scrum
 
