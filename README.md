@@ -6,6 +6,7 @@
 * Java language specification: http://docs.oracle.com/javase/specs/jls/se8/html/index.html
 * Java Community Process: https://jcp.org/en/home/index
 * Coding standards: http://www.oracle.com/technetwork/java/codeconventions-150003.pdf
+* In de uitwerking de Java Date API gebruiken: LocalDate, LocalDateTime en Duration.
 
 ## Agile & Scrum
 
