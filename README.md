@@ -1,6 +1,11 @@
 # software-engineering-track
 
-De user stories voor week 1 staan in de map: week1/user-stories.
+## Basis Java & programming
+
+* Online tutorial: http://www.learnjavaonline.org/en/Welcome
+* Java language specification: docs.oracle.com/javase/specs/jls/se8/html/index.html
+* Java Community Process: https://jcp.org/en/home/index
+* Coding standards: www.oracle.com/technetwork/java/codeconventions-150003.pdf
 
 ## Agile & Scrum
 
@@ -21,6 +26,8 @@ Wat zijn user stories
 
 * https://www.mountaingoatsoftware.com/agile/user-stories
 * http://scrumguide.nl/user-story/
+
+De user stories voor week 1 staan in de map: week1/user-stories.
 
 ## Collaboration tools
 
