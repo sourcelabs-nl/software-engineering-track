@@ -18,7 +18,20 @@ Voorbeeld trello board voor een schilder project:
 
 ## Agile & Scrum
 
+Kernwaardes Agile:
+
 * http://agilemanifesto.org/
-* https://www.scrumalliance.org/why-scrum
-* https://www.scrumalliance.org/why-scrum/core-scrum-values-roles
-* https://www.scrumalliance.org/why-scrum/scrum-guide
+
+Scrum: een agile framework
+
+* Korte introductie: https://www.scrumalliance.org/why-scrum
+* Scrum rollen: https://www.scrumalliance.org/why-scrum/core-scrum-values-roles
+* Scrum guide: https://www.scrumalliance.org/why-scrum/scrum-guide
+* Definition of Done: https://agilescrumgroup.nl/wat-is-definition-of-done/
+
+### User stories
+
+Wat zijn user stories
+
+* https://www.mountaingoatsoftware.com/agile/user-stories
+* http://scrumguide.nl/user-story/
