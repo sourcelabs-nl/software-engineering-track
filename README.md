@@ -35,3 +35,7 @@ Meer details:
 Voorbeeld trello board voor een schilder project:
 
 * https://trello.com/b/PTWUO4A4/schilderen-huis
+
+## Git
+
+* Tutorial: https://try.github.io/levels/1/challenges/1
