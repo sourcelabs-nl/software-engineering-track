@@ -10,6 +10,10 @@ Meer details:
 * https://mattbrictson.com/trello-themes-and-checklists
 * https://mattbrictson.com/trello-labels-and-estimates
 
+Voorbeeld trello board voor een schilder project:
+
+* https://trello.com/b/PTWUO4A4/schilderen-huis
+
 Agile & Scrum
 
 * http://agilemanifesto.org/
