@@ -46,5 +46,5 @@ Voorbeeld trello board voor een schilder project:
 
 * Tutorial: https://try.github.io/levels/1/challenges/1
 * Tools:
-** Local: git client (git-scm.org), IntelliJ
-** Shared: github.com, bitbucket.org, gitlab, Stash
+* * Local: git client (git-scm.org), IntelliJ
+* * Shared: github.com, bitbucket.org, gitlab, Stash
