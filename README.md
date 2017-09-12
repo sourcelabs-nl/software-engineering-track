@@ -2,7 +2,9 @@
 
 De user stories voor week 1 staan in de map: week1/user-stories.
 
-## Maak een trello board aan voor je team
+## Trello
+
+Maak een trello board aan voor je team
 
 Meer details:
 
@@ -14,7 +16,7 @@ Voorbeeld trello board voor een schilder project:
 
 * https://trello.com/b/PTWUO4A4/schilderen-huis
 
-Agile & Scrum
+## Agile & Scrum
 
 * http://agilemanifesto.org/
 * https://www.scrumalliance.org/why-scrum
