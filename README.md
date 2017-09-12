@@ -22,6 +22,12 @@ Wat zijn user stories
 * https://www.mountaingoatsoftware.com/agile/user-stories
 * http://scrumguide.nl/user-story/
 
+## Collaboration tools
+
+- Planning/tasks: Trello, Jira, etc.
+- Communication: Slack, HipChat, Skype
+- Code sharing: Git (distributed), Subversion (centralized)
+
 ## Trello
 
 Maak een trello Scrum board aan voor je team
@@ -36,12 +42,9 @@ Voorbeeld trello board voor een schilder project:
 
 * https://trello.com/b/PTWUO4A4/schilderen-huis
 
-## Collaboration tools
-
-- Planning/tasks: Trello, Jira, etc.
-- Communication: Slack, HipChat, Skype
-- Code sharing: Git (distributed), Subversion (centralized)
-
 ## Git
 
 * Tutorial: https://try.github.io/levels/1/challenges/1
+* Tools:
+** Local: git client (git-scm.org), IntelliJ
+** Shared: github.com, bitbucket.org, gitlab, Stash
