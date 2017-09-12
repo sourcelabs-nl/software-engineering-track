@@ -2,20 +2,6 @@
 
 De user stories voor week 1 staan in de map: week1/user-stories.
 
-## Trello
-
-Maak een trello board aan voor je team
-
-Meer details:
-
-* https://mattbrictson.com/trello-board-organization
-* https://mattbrictson.com/trello-themes-and-checklists
-* https://mattbrictson.com/trello-labels-and-estimates
-
-Voorbeeld trello board voor een schilder project:
-
-* https://trello.com/b/PTWUO4A4/schilderen-huis
-
 ## Agile & Scrum
 
 Kernwaardes Agile:
@@ -35,3 +21,17 @@ Wat zijn user stories
 
 * https://www.mountaingoatsoftware.com/agile/user-stories
 * http://scrumguide.nl/user-story/
+
+## Trello
+
+Maak een trello Scrum board aan voor je team
+
+Meer details:
+
+* https://mattbrictson.com/trello-board-organization
+* https://mattbrictson.com/trello-themes-and-checklists
+* https://mattbrictson.com/trello-labels-and-estimates
+
+Voorbeeld trello board voor een schilder project:
+
+* https://trello.com/b/PTWUO4A4/schilderen-huis
