@@ -3,7 +3,7 @@
 ## Basis Java & programming
 
 * Online tutorial: http://www.learnjavaonline.org/en/Welcome
-* Alternatief: CodeCademy: https://www.codecademy.com/learn/learn-java
+ * Alternatief: CodeCademy: https://www.codecademy.com/learn/learn-java
 * Java language specification: http://docs.oracle.com/javase/specs/jls/se8/html/index.html
 * Java Community Process: https://jcp.org/en/home/index
 * Coding standards: http://www.oracle.com/technetwork/java/codeconventions-150003.pdf
