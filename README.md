@@ -62,6 +62,39 @@ Voorbeeld trello board voor een schilder project:
 
 * Maven: https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html
 
+Sample pom.xml
+
+```xml
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.capgemini.se</groupId>
+    <artifactId>boat-trip-app</artifactId>
+    <version>0.1-SNAPSHOT</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
+```
+
 ## Unit testing
 
 * JUnit: 4.x
