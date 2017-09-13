@@ -20,6 +20,7 @@ Scrum: een agile framework
 * Scrum rollen: https://www.scrumalliance.org/why-scrum/core-scrum-values-roles
 * Scrum guide: https://www.scrumalliance.org/why-scrum/scrum-guide
 * Definition of Done: https://agilescrumgroup.nl/wat-is-definition-of-done/
+* Daily stand-up: http://scrumguide.nl/daily-standup-meeting/
 
 ### User stories
 
