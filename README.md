@@ -30,7 +30,7 @@ Wat zijn user stories
 * https://www.mountaingoatsoftware.com/agile/user-stories
 * http://scrumguide.nl/user-story/
 
-De user stories voor week 1 staan in de map: week1/user-stories.
+De user stories voor week 1 staan in de map: docs/week1/user-stories.
 
 ## Collaboration tools
 
