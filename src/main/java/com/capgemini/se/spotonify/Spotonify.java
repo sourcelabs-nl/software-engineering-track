@@ -17,22 +17,27 @@ public class Spotonify {
         return playlist;
     }
 
-    public static void main(String[] args) {
-        Spotonify spotOnify = new Spotonify();
-
-        Playlist playlist = spotOnify.createPlaylist();
-
-        Track track1 = new Track("Smack my bitch up", "Prodigy");
-        Track track2 = new Track("Smack my bitch up", "Prodigy");
-
-        playlist.add(track1);
-        playlist.add(track2);
-
+    public void printPlaylist(Playlist playlist) {
         List<Track> tracks = playlist.getTracks();
 
         for (int i = 0; i < tracks.size(); i++) {
             Track track = tracks.get(i);
             System.out.println(track.getTitle());
         }
+    }
+
+    public static void main(String[] args) {
+        Spotonify spotOnify = new Spotonify();
+
+        Playlist playlist = spotOnify.createPlaylist();
+
+        Track track1 = new Track("Smack my bitch up", "Prodigy");
+        Track track2 = new Track("Smack my dog up", "Prodigy");
+
+        playlist.add(track1);
+        playlist.add(track2);
+
+        spotOnify.printPlaylist(playlist);
+
     }
 }

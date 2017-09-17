@@ -1,14 +1,14 @@
-package week1;
+package com.capgemini.se;
 
-public class Customer {
+public class PolymorphismExample {
 
     protected String name;
 
-    public Customer(String name) {
+    public PolymorphismExample(String name) {
         this.name = name;
     }
 
-    static class BusinessCustomer extends Customer {
+    static class BusinessCustomer extends PolymorphismExample {
         private String kvkNumber;
 
         public BusinessCustomer(String name, String kvkNumber) {
@@ -27,8 +27,8 @@ public class Customer {
     }
 
     public static void main(String[] args) {
-        Customer c = new Customer("S.Oudmaijer");
-        Customer b = new BusinessCustomer("B.Izzyness", "123456");
+        PolymorphismExample c = new PolymorphismExample("S.Oudmaijer");
+        PolymorphismExample b = new BusinessCustomer("B.Izzyness", "123456");
         c.printInfo();
         b.printInfo();
     }
