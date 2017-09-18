@@ -108,7 +108,7 @@ Sample pom.xml
  
 ### UML
 * [UML Diagram Types](http://creately.com/blog/diagrams/uml-diagram-types-examples/)
-* [Quick reference/cheat sheet](https://holub.com/uml/)
+* [UML Quick reference/Cheat Sheet](https://holub.com/uml/)
 
 ### Intellij Support
 * [Generating (reverse engineering) Diagrams from Source](https://www.jetbrains.com/help/idea/viewing-class-hierarchy-as-a-class-diagram.html)
