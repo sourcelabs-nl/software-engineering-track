@@ -103,10 +103,10 @@ Sample pom.xml
 ## Object Oriented Modeling and Design
 
 ### Presentation
-* [Presentation for SE track][https://docs.google.com/presentation/d/1im8rDymEy4yp1dQqzIjfubXlk5z3nlBDQjOYLAFYtwc/edit?usp=sharing]
+* [Presentation for SE track](https://docs.google.com/presentation/d/1im8rDymEy4yp1dQqzIjfubXlk5z3nlBDQjOYLAFYtwc/edit?usp=sharing)
  
 ### UML
-* [UML Diagram Types][http://creately.com/blog/diagrams/uml-diagram-types-examples/]
-* [Quick reference/cheat sheet][https://holub.com/uml/]
+* [UML Diagram Types](http://creately.com/blog/diagrams/uml-diagram-types-examples/)
+* [Quick reference/cheat sheet](https://holub.com/uml/)
   
   
