@@ -99,3 +99,8 @@ Sample pom.xml
 ## Unit testing
 
 * JUnit: 4.x
+
+## Object Oriented Modeling and Design
+
+* Simple primer on Object Oriented Analysis and Design (OOAD)
+ * https://docs.google.com/presentation/d/1im8rDymEy4yp1dQqzIjfubXlk5z3nlBDQjOYLAFYtwc/edit?usp=sharing
