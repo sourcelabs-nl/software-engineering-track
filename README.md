@@ -8,6 +8,7 @@
 * Java Community Process: https://jcp.org/en/home/index
 * Coding standards: http://www.oracle.com/technetwork/java/codeconventions-150003.pdf
 * In de uitwerking de Java Date API gebruiken: LocalDate, LocalDateTime en Duration.
+* Exception handling: https://docs.oracle.com/javase/tutorial/essential/exceptions/
 
 ## Agile & Scrum
 
@@ -111,5 +112,4 @@ Sample pom.xml
 
 ### Intellij Support
 * [Generating Diagrams from Source](https://www.jetbrains.com/help/idea/viewing-class-hierarchy-as-a-class-diagram.html)
-  
-  
+    
