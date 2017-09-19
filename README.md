@@ -59,7 +59,7 @@ Voorbeeld trello board voor een schilder project:
 * Tools:
   * Local: git client (git-scm.org), IntelliJ
   * Shared: github.com, bitbucket.org, gitlab, Stash
-  
+
 ## Build tools
 
 * Maven: https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html
@@ -105,11 +105,16 @@ Sample pom.xml
 
 ### Designing a class model
 * [SE Track presentation: Class model basics](https://docs.google.com/presentation/d/1im8rDymEy4yp1dQqzIjfubXlk5z3nlBDQjOYLAFYtwc/edit?usp=sharing)
- 
+
 ### UML
 * [UML Diagram Types](http://creately.com/blog/diagrams/uml-diagram-types-examples/)
 * [UML Quick reference/Cheat Sheet](https://holub.com/uml/)
 
 ### Intellij Support
 * [Generating (reverse engineering) Diagrams from Source](https://www.jetbrains.com/help/idea/viewing-class-hierarchy-as-a-class-diagram.html)
-    
+
+## Spring Boot
+
+* [Spring Boot - Josh Long introduction video](https://www.youtube.com/watch?v=sbPSjI4tt10)
+* [http://start.spring.io/](Spring Boot project bootstrap site)
+* [https://spring.io/guides/gs/actuator-service/](Spring Boot tutorial site)
