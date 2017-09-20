@@ -118,3 +118,7 @@ Sample pom.xml
 * [Spring Boot - Josh Long introduction video](https://www.youtube.com/watch?v=sbPSjI4tt10)
 * [Spring Boot project bootstrap site](http://start.spring.io/)
 * [Spring Boot tutorial site](https://spring.io/guides/gs/actuator-service)
+
+## Exception handling example code
+
+* [Example code showing throws, try/catch](https://github.com/sourcelabs-nl/software-engineering-track/tree/master/src/main/java/com/capgemini/se/week2/exceptions)
