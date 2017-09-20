@@ -20,19 +20,4 @@ public abstract class Product {
     public String getName() {
         return name;
     }
-
-    @Override
-    public boolean equals(Object o) {
-        if (this == o)
-            return true;
-        if (o == null || getClass() != o.getClass())
-            return false;
-
-        Product product = (Product) o;
-
-        if (name != null ? !name.equals(product.name) : product.name != null)
-            return false;
-
-        return true;
-    }
 }
