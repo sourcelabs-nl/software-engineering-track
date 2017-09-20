@@ -23,7 +23,7 @@ public class Main {
     /**
      * This method is the same as the handleCheckedException, but instead of handling the
      * exception with a try-catch block, we just declared the exception to have it handled
-     * by the caller of this method.
+     * by the caller of this method.  
      * 
      * @throws CheckedException
      */
