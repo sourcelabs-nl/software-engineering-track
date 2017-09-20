@@ -31,7 +31,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.capgemini.se.boat.BoatTripApp</mainClass>
+                            <mainClass>com.capgemini.se.week2.soda.se.boat.BoatTripApp</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

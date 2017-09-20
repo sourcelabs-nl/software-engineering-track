@@ -1,4 +1,4 @@
-package com.capgemini;
+package com.capgemini.se.week2.soda;
 
 import java.util.ArrayList;
 import java.util.List;

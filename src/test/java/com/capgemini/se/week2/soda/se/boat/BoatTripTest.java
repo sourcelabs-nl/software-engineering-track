@@ -1,7 +1,5 @@
-package com.capgemini.se.boat;
+package com.capgemini.se.week2.soda.se.boat;
 
-import com.capgemini.se.boat.BoatTrip;
-import com.capgemini.se.boat.BoatTripException;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
