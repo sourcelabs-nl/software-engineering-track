@@ -1,4 +1,4 @@
-package com.capgemini.se.week2.soda.se;
+package com.capgemini.se;
 
 import org.junit.Assert;
 import org.junit.Before;
