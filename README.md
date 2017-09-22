@@ -122,3 +122,7 @@ Sample pom.xml
 ## Exception handling example code
 
 * [Example code showing throws, try/catch](https://github.com/sourcelabs-nl/software-engineering-track/tree/master/src/main/java/com/capgemini/se/week2/exceptions)
+
+## Recap Week 2
+
+* [Presentation](https://github.com/sourcelabs-nl/software-engineering-track/blob/master/docs/week2/presentations/Presentation%20week%202%20-%20Day%205.pptx)
